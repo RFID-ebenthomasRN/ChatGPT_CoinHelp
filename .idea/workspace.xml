@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbd9368-9da4-479e-8234-7fafa87e67d7" name="Changes" comment="WorkinwithGPT andGIT">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+>>>>>>> WorkinwithGPT
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +87,11 @@
       <option name="presentableId" value="Default" />
       <updated>1694951562123</updated>
       <workItem from="1694951563324" duration="2871000" />
+<<<<<<< HEAD
       <workItem from="1695056502077" duration="9894000" />
+=======
+      <workItem from="1695056502077" duration="9189000" />
+>>>>>>> WorkinwithGPT
     </task>
     <task id="LOCAL-00001" summary="WorkinwithGPT andGIT">
       <option name="closed" value="true" />
@@ -93,6 +101,7 @@
       <option name="project" value="LOCAL" />
       <updated>1695108276403</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00002" summary="WorkinwithGPT andGIT">
       <option name="closed" value="true" />
       <created>1695109016324</created>
@@ -102,6 +111,9 @@
       <updated>1695109016324</updated>
     </task>
     <option name="localTasksCounter" value="3" />
+=======
+    <option name="localTasksCounter" value="2" />
+>>>>>>> WorkinwithGPT
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
